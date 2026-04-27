@@ -30,7 +30,7 @@ A modern, conversion-oriented landing page for a premium-class dental clinic.
 Developed with a focus on responsive design,
 performance, and flawless UX.
 
-🌐 **Live Demo:** [belov-dental.vercel.app](https://belov-dental.vercel.app/)  
+🌐 **Web Version:** [belov-dental.vercel.app](https://belov-dental.vercel.app/)  
 🛠 **Stack:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui
 
 ---
