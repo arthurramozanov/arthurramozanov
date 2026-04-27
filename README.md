@@ -16,7 +16,6 @@ I'm **Arthur** — full-stack developer building modern web products and AI-powe
 #### 🚀 Featured Projects
 
 ##### 💊 Arihealth Shop — Telegram Mini App
-
 E-commerce Telegram Mini App for a health & wellness brand. Product catalog, 
 cart and checkout flow built natively inside Telegram. Also available as 
 a standalone mobile-friendly web app.
@@ -26,10 +25,20 @@ a standalone mobile-friendly web app.
 
 ---
 
+##### 🦷 Belov Dental — Premium Clinic Landing
+A modern, conversion-oriented landing page for a premium-class dental clinic.
+Developed with a focus on responsive design,
+performance, and flawless UX.
+
+🌐 **Live Demo:** [belov-dental.vercel.app](https://belov-dental.vercel.app/)  
+🛠 **Stack:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui
+
+---
+
 #### 💼 What I build
 
-- 🌐 **Landing pages & websites** — modern, fast, conversion-focused
 - 🤖 **Telegram Mini Apps & bots** — full-stack solutions on Telegram WebApp SDK
+- 🌐 **Landing pages & websites** — modern, fast, conversion-focused
 - 🧠 **AI-powered products** — integrations with Claude, Gemini, ElevenLabs
 - ⚙️ **End-to-end web apps** — from idea to production
 
@@ -38,7 +47,7 @@ a standalone mobile-friendly web app.
 #### 📫 Get in touch
 
 - 📧 arthur.ramozanov@gmail.com
-- 💬 Telegram: [@sevengong1](https://t.me/sevengong1)
+- 💬 Telegram: [@YOUR_TELEGRAM_USERNAME](https://t.me/YOUR_TELEGRAM_USERNAME)
 
 ---
 
