@@ -47,7 +47,7 @@ performance, and flawless UX.
 #### 📫 Get in touch
 
 - 📧 arthur.ramozanov@gmail.com
-- 💬 Telegram: [@YOUR_TELEGRAM_USERNAME](https://t.me/YOUR_TELEGRAM_USERNAME)
+- 💬 Telegram: [@sevengong1](https://t.me/sevengong1)
 
 ---
 
