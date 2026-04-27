@@ -28,8 +28,8 @@ a standalone mobile-friendly web app.
 
 #### 💼 What I build
 
-- 🤖 **Telegram Mini Apps & bots** — full-stack solutions on Telegram WebApp SDK
 - 🌐 **Landing pages & websites** — modern, fast, conversion-focused
+- 🤖 **Telegram Mini Apps & bots** — full-stack solutions on Telegram WebApp SDK
 - 🧠 **AI-powered products** — integrations with Claude, Gemini, ElevenLabs
 - ⚙️ **End-to-end web apps** — from idea to production
 
